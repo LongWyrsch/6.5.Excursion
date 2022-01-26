@@ -2,13 +2,14 @@ html {
     background-color: black;
     text-align: center; /*  <-- Will this align everything on the page?*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 h1 {
     /*font-family:Verdana, Geneva, Tahoma, sans-serif;    <-- specified in HTML{} element*/ 
     font-weight: normal;
     font-size: 50px;
-    color: white;
+    /*color: white;      <-- specified in HTML{} element*/ 
     /*text-align: center;*/
 }
 
