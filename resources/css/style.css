@@ -1,8 +1,9 @@
-html {
+body {
     background-color: black;
     text-align: center; /*  <-- Will this align everything on the page?*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+    width: auto;
 }
 
 h1 {
@@ -28,6 +29,10 @@ h2 {
     /*font-family:Verdana, Geneva, Tahoma, sans-serif;    <-- specified in HTML{} element*/
     font-size: 21px;
     color: gray;
+}
+
+#tentimg {
+    padding-bottom: 20px;
 }
 
 #copyright {
